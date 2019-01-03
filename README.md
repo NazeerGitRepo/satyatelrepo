@@ -1,0 +1,2 @@
+# satyatelrepo
+satyatel microservices
